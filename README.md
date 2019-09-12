@@ -66,4 +66,15 @@ Inside every project, you can have as many files as you want. For each class you
 
 ### Cloning a project from github
 
-Since all our classes are available on github, you can clone directly. Let's check every option you have to fill in order to clone a class
+Since all our classes are available on github, you can clone directly. Let's check every option you have to fill in order to clone a class to your repl.it
+
+- Language
+  - In this Course we will use "Python", as it creates a repository with a python 3 interpreter
+- github link
+  - Here you can paste the link for the github repository. For this class, the link would be https://github.com/cz-python-course/Class0
+- Name Your repl
+  - This will be automatically filled when you input a github link for the class
+- Description (optional)
+  - In case you want to add some extra description for the repl.
+
+Then you can click on "Import from Github" to start the cloning process. Once this is done, repl will open the project for you.
