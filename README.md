@@ -11,6 +11,7 @@
 - [Getting started](#getting-started)
   - [Using repl.it](#using-replit)
     - [Cloning a project from github](#cloning-a-project-from-github)
+    - [Modifying the source code](#Modifying-the-source-code)
 
 ---
 
@@ -78,3 +79,21 @@ Since all our classes are available on github, you can clone directly. Let's che
   - In case you want to add some extra description for the repl.
 
 Then you can click on "Import from Github" to start the cloning process. Once this is done, repl will open the project for you.
+You can see a "run" button on the top. This will execute the main file (main.py) and show the output on the right panel.
+
+You can try to clone this class and run the file. The output should be *hello world*
+
+### Modifying the source code
+
+In the file, you will see only one line of code:
+
+```python
+print('hello world')
+```
+
+You can modify it to print your name. It will look like this:
+
+
+```python
+print('hello Bruce Wayne')
+```
